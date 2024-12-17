@@ -1,0 +1,23 @@
+{
+    "name": "example",
+    "prefix": "%#PLACEHOLDER",
+    "placeholderMappings": {
+        "Header": [
+            "APPLICATION_NAME"
+        ],
+        "Hero": [
+            "HERO_HEADING_TEXT",
+            "HERO_SUBHEADING_TEXT"
+        ],
+        "Footer": [
+            "APPLICATION_NAME",
+            "FOOTER_TEXT"
+        ]
+    },
+    "placeholders": {
+        "APPLICATION_NAME": "PolitiPredict",
+        "HERO_HEADING_TEXT": "Forecast the Future of American Politics",
+        "HERO_SUBHEADING_TEXT": "Join the smart money in our cutting-edge presidential prediction market. Trade insights, not just opinions.",
+        "FOOTER_TEXT": "PolitiPredict | Empowering informed citizens since 2023 | Disclaimer: For entertainment purposes only"
+    }
+}
