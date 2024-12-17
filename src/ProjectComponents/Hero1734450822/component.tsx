@@ -38,7 +38,7 @@ const Hero: React.FC = () => {
       </div>
     </div>
   );
-  );
+};
 };
 
 export { Hero as component }
