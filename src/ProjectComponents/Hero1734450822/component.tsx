@@ -39,6 +39,5 @@ const Hero: React.FC = () => {
     </div>
   );
 };
-};
 
 export { Hero as component }
